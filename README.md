@@ -10,29 +10,27 @@ Hi! I am a **Data Analyst** and **UI/UX enthusiast**. This project is a personal
 - **Earthquake Geospatial Mapping** Mapping Indonesia's seismic activity using Tableau.
 - **Medical Data Entry** Managed 3,100+ healthcare records for national compliance (Mutufasyankes).
 - **WiFi Business Management** Financial automation and database management for 120+ active customers using Advanced Excel.
-
 - **Luxwellness Vitamin Shop** High-fidelity UI/UX prototype focused on clean design, crafted in Figma.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Development
 
-- **Development:** Laravel 12, PHP, Tailwind CSS
+- **Framework:** Laravel 12 (PHP)
+- **Styling:** Tailwind CSS
 - **Data & Design:** SQL, Excel, Tableau, Figma
 
----
-
-### 💡 Deployment Note
-This repository contains the **static version** of the project for deployment on GitHub Pages. The original source code was developed using **Laravel 12** and **Tailwind CSS**. 
-
-> **Why static?** To ensure 100% uptime and blazing fast loading speeds for recruiters, while maintaining the high-fidelity design crafted in the Laravel environment.
+> [!IMPORTANT]
+> **Deployment Note:** This repository reflects **100% HTML** because it serves the static build for GitHub Pages. However, the original application was architected using **Laravel**.
+> 
+> 👉 **View Original Laravel Source Code:** [portfolio_firnandaamalia](https://github.com/FirnandaAmalia/portfolio_firnandaamalia)
 
 ---
 
 ### 📄 Documents
 
-- [Sertifikat Leadership Program](./public/doc/LTP.png)
-- [Surat Rekomendasi Data Analyst](./public/doc/FirnandaAmalia_Surat_Rekomendasi_Keahlian_DataAnalyst_by_Karirnex.pdf)
-- [Sertifikat Panitia Code Summit](./public/doc/Panitia_Code_Summit.png)
-- [Sertifikat Bootcamp Data Analyst](./public/doc/Sertifikat%20FIRNANDAAMALIA_Bootcamp_DataAnalyst_Persiapan_Kerja_Karirnex.pdf)
-- [Sertifikat Sertifikat Internship Humanis](./public/doc/SERTIFIKAT_INTERNSHIP_HUMANIS.png)
+- [Sertifikat Leadership Program](./doc/LTP.png)
+- [Surat Rekomendasi Data Analyst](./doc/FirnandaAmalia_Surat_Rekomendasi_Keahlian_DataAnalyst_by_Karirnex.pdf)
+- [Sertifikat Panitia Code Summit](./doc/Panitia_Code_Summit.png)
+- [Sertifikat Bootcamp Data Analyst](./doc/Sertifikat%20FIRNANDAAMALIA_Bootcamp_DataAnalyst_Persiapan_Kerja_Karirnex.pdf)
+- [Sertifikat Sertifikat Internship Humanis](./doc/SERTIFIKAT_INTERNSHIP_HUMANIS.png)
