@@ -23,7 +23,7 @@ Hi! I am a **Data Analyst** and **UI/UX enthusiast**. This project is a personal
 > [!IMPORTANT]
 > **Deployment Note:** This repository reflects **100% HTML** because it serves the static build for GitHub Pages. However, the original application was architected using **Laravel**.
 > 
-> 👉 **View Original Laravel Source Code:** [portfolio_firnandaamalia](https://github.com/FirnandaAmalia/portfolio_firnandaamalia)
+> 👉 **View Original Laravel Source Code:** [portfolio_firnandaamalia](https://github.com/FirnandaAmalia/portfolio_firnandaamalia.git))
 
 ---
 
