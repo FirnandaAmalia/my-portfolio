@@ -22,6 +22,13 @@ Hi! I am a **Data Analyst** and **UI/UX enthusiast**. This project is a personal
 
 ---
 
+### 💡 Deployment Note
+This repository contains the **static version** of the project for deployment on GitHub Pages. The original source code was developed using **Laravel 12** and **Tailwind CSS**. 
+
+> **Why static?** To ensure 100% uptime and blazing fast loading speeds for recruiters, while maintaining the high-fidelity design crafted in the Laravel environment.
+
+---
+
 ### 📄 Documents
 
 - [Sertifikat Leadership Program](./public/doc/LTP.png)
